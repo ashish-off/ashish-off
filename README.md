@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ashish Saud
 
-🚀 **Tech Enthusiast** passionate about AI, Web Development, and DevOps  
+🚀 **Tech Enthusiast** passionate about AI/ML and Web Development 
 🎓 **Computer Science student** at Tribhuvan University, advancing skills in React and DSA  
 🛠️ **Creating impactful projects, solving complex problems, and transforming ideas into code**
 
